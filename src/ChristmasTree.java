@@ -20,8 +20,8 @@ public class ChristmasTree {
     }
 
 
-    double treeWidth = 15;
-    double scale = 2;    //This is how much the width of the tree increases with each layer down
+    double treeWidth = 30;
+    double scale = 1.1;    //This is how much the width of the tree increases with each layer down
 
 
     void drawTreeBody() {
